@@ -57,6 +57,34 @@ public:
 
     }
 
+    int solveUsingTabulationSpaceOptimized(int n){
+        // Step I: Create a DP array.
+        // vector<int> dp(n+1, -1);
+        // Step II: Analyze base case and fill dp array
+        int prev = 0;
+        if(n==0){
+            return 0;
+        }
+        int curr = 1;
+        if(n == 1){
+            return 1;
+        }
+        // Step III: Fill the remaining dp array
+        //size = n + 1;
+        // index -> 0 - n
+        // Kaunse fill ho chuke hai 0 aur 1
+        int ans;
+        for(int i = 2; i <= n; i++){
+            ans = curr + prev;
+            prev = curr;
+            curr = ans;
+        }
+
+        // Answer return;
+        return ans;
+
+    }
+
     int fib(int n) {
 
         // int ans = solveUsingRecursion(n);
@@ -65,7 +93,7 @@ public:
         // vector<int> dp(n+1, -1);
         // int ans = solveUsingMemoization(n, dp);
         // return ans;
-        int ans = solveUsingTabulation(n);
+        int ans = solveUsingTabulationSpaceOptimized(n);
         return ans;
         
     }
