@@ -35,13 +35,37 @@ public:
 
     }
 
+    int solveUsingTabulation(int n){
+        // Step I: Create a DP array.
+        vector<int> dp(n+1, -1);
+        // Step II: Analyze base case and fill dp array
+        dp[0] = 0;
+        if(n==0){
+            return dp[0];
+        }
+        dp[1] = 1;
+        // Step III: Fill the remaining dp array
+        //size = n + 1;
+        // index -> 0 - n
+        // Kaunse fill ho chuke hai 0 aur 1
+        for(int i = 2; i <= n; i++){
+            dp[i] = dp[i-1] + dp[i-2];
+        }
+
+        // Answer return;
+        return dp[n];
+
+    }
+
     int fib(int n) {
 
         // int ans = solveUsingRecursion(n);
         // return ans;
         // Step 1: Create a DP array
-        vector<int> dp(n+1, -1);
-        int ans = solveUsingMemoization(n, dp);
+        // vector<int> dp(n+1, -1);
+        // int ans = solveUsingMemoization(n, dp);
+        // return ans;
+        int ans = solveUsingTabulation(n);
         return ans;
         
     }
