@@ -14,6 +14,7 @@ public:
         return ans;
     }
 
+    // Top-Down (Memoization)
     int solveUsingMem(vector<int> &nums, vector<int> &dp, int index){
         // Base Case
         if(index >= nums.size()){
@@ -32,12 +33,18 @@ public:
         
     }
 
+    // Tabulation
+    // int solveUsingTabulation(vector<int> &nums){
+    //     int n = nums.size();
+    //     vector<int> dp(n+1, -1);
+    // }
+
     int rob(vector<int>& nums) {
         int index = 0;
         //int ans = solveUsingRecursion(nums, index);
         //return ans;
         int n = nums.size();
-        vector<int> dp(n+1, -1);
+        vector<int> dp(n, -1);
         int ans = solveUsingMem(nums, dp, index);
         return ans;
     }
