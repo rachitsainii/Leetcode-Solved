@@ -50,6 +50,26 @@ public:
         return dp[0];
     }
 
+    // Space Optimized
+    int solveUsingTabulationSO(vector<int> &nums){
+        int n = nums.size();
+        int prev = nums[n-1];
+        int next = 0;
+        int curr = 0;
+        for(int index = n-2; index >= 0; index--){
+            int tempAns = 0;
+            if(index+2 < n){
+                tempAns = next;
+            }
+            int include = nums[index] + tempAns;
+            int exclude = 0 + prev;
+            curr = max(include, exclude);
+            next = prev;
+            prev = curr;
+        }
+        return prev;
+    }
+
     int rob(vector<int>& nums) {
         int index = 0;
         //int ans = solveUsingRecursion(nums, index);
@@ -58,7 +78,7 @@ public:
         // vector<int> dp(n, -1);
         // int ans = solveUsingMem(nums, dp, index);
         // return ans;
-        int ans = solveUsingTabulation(nums);
+        int ans = solveUsingTabulationSO(nums);
         return ans;
     }
 };
