@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        // Solved Using Two Pointer Approach.
+        /*  // Solved Using Two Pointer Approach.
             // 1. Created a copy of the nums array called copy. 
             // 2. Sorted the copy array. (Ologn)
             // 3. Applied two pointer method. 
@@ -36,6 +36,20 @@ public:
             }
         }
 
-        return ans;
+        return ans; */
+
+
+        unordered_map<int, int> dic;
+        for(int i = 0; i < nums.size(); i++){
+            int num = nums[i];
+            int complement = target - num;
+            if(dic.find(complement) != dic.end()){
+                return {i, dic[complement]};
+            }
+
+            dic[num] = i;
+        }
+
+        return {-1, -1};
     }
 };
