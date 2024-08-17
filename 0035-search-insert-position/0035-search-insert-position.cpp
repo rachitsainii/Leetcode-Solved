@@ -14,6 +14,6 @@ public:
             }
         }
 
-        return right+1;
+        return left;
     }
 };
