@@ -12,29 +12,28 @@
 class Solution {
 public:
 
-    int height(TreeNode *root){
+    pair<bool, int> fastBalanced(TreeNode *root){
         if(root == NULL){
-            return 0;
+            pair<bool, int> p = make_pair(true, 0);
+            return p;
         }
 
-        int left = height(root->left);
-        int right = height(root->right);
-        return max(left, right) + 1;
-    }
-
-    bool isBalanced(TreeNode* root) {
-        if(root == NULL){
-            return true;
-        }
-
-        bool left = isBalanced(root->left);
-        bool right = isBalanced(root->right);
-        bool diff = abs(height(root->left) - height(root->right)) <= 1;
-
-        if(left && right && diff){
-            return true;
+        pair<bool, int> left = fastBalanced(root->left);
+        pair<bool, int> right = fastBalanced(root->right);
+        bool val1 = left.first;
+        bool val2 = right.first;
+        bool val3 = abs(left.second - right.second) <= 1;
+        pair<bool, int> ans;
+        ans.second = max(left.second, right.second) + 1;
+        if(val1 && val2 && val3){
+            ans.first = true;
         } else {
-            return false;
+            ans.first = false;
         }
+
+        return ans;
+    }
+    bool isBalanced(TreeNode* root) {
+        return fastBalanced(root).first;
     }
 };
