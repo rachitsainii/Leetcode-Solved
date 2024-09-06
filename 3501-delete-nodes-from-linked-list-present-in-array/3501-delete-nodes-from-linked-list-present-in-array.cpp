@@ -31,15 +31,20 @@ public:
             if((numbers.find(temp->val) != numbers.end()) && temp == head){
                 ListNode *n = temp->next;
                 temp->next = NULL;
+                ListNode * del = temp;
                 temp = n;
                 head = temp;
+                delete(del);
             } else if((numbers.find(temp->val) != numbers.end()) && temp != head){
                 ListNode *n = temp->next;
                 prev->next = temp->next;
                 temp->next = NULL;
+                ListNode * del = temp;
                 temp = n;
+                delete(del);
             } else if ((numbers.find(temp->val) != numbers.end()) && temp->next == NULL){
                 prev->next = NULL;
+                delete(temp);
             } else {
                 prev = temp;
                 temp = temp->next;
