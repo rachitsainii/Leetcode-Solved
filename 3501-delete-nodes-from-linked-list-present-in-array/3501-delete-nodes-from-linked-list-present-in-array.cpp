@@ -19,35 +19,33 @@ public:
             return head;
         }
 
-
+        unordered_set<int> numbers;
         for(auto i : nums){
-            ListNode *temp = head;
-            ListNode *prev = NULL;
-            while(temp != NULL){
-                if(temp->val == i && temp == head){
-                    ListNode *n = temp->next;
-                    temp->next = NULL;
-                    temp = n;
-                    head = temp;
-                } else if(temp->val == i && temp != head){
-                    ListNode *n = temp->next;
-                    prev->next = temp->next;
-                    temp->next = NULL;
-                    // prev = temp;
-                    temp = n;
-                } else if (temp->val == i && temp->next == NULL){
-                    ListNode *p = NULL;
-                    while(p->next != temp){
-                        p = p->next;
-                    }
-                    p->next = NULL;
-                } else {
-                    prev = temp;
-                    temp = temp->next;
-                }
+            numbers.insert(i);
+        }
+        
+        
+        ListNode *temp = head;
+        ListNode *prev = NULL;
+        while(temp != NULL){
+            if((numbers.find(temp->val) != numbers.end()) && temp == head){
+                ListNode *n = temp->next;
+                temp->next = NULL;
+                temp = n;
+                head = temp;
+            } else if((numbers.find(temp->val) != numbers.end()) && temp != head){
+                ListNode *n = temp->next;
+                prev->next = temp->next;
+                temp->next = NULL;
+                temp = n;
+            } else if ((numbers.find(temp->val) != numbers.end()) && temp->next == NULL){
+                prev->next = NULL;
+            } else {
+                prev = temp;
+                temp = temp->next;
             }
         }
-
+        
         return head;
     }
 };
