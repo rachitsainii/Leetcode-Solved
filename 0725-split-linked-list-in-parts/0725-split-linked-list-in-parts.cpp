@@ -14,8 +14,7 @@ public:
         vector<ListNode*> ans;
         if(head == NULL && k > 0){
             while(k != 0){
-                ListNode *empty = NULL;
-                ans.push_back(empty);
+                ans.push_back(NULL);
                 k--;
             }
 
