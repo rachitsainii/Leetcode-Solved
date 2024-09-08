@@ -19,13 +19,9 @@ public:
 
             n = new_num;
             new_num = 0;
-            for(auto i : seen){
-                cout << i << " ";
-                }
-                cout << endl;
             }
         }
-        
+
         return true;
     }
 };
