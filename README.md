@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -42,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0202-happy-number) |
 | [0906-walking-robot-simulation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0906-walking-robot-simulation) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0202-happy-number) |
 | [2155-find-missing-observations](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2155-find-missing-observations) |
 ## Greedy
 |  |
