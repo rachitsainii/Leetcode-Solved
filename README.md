@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0906-walking-robot-simulation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0906-walking-robot-simulation) |
 | [2155-find-missing-observations](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2155-find-missing-observations) |
@@ -42,9 +43,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0202-happy-number) |
 | [0906-walking-robot-simulation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0906-walking-robot-simulation) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -94,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2411-spiral-matrix-iv) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
