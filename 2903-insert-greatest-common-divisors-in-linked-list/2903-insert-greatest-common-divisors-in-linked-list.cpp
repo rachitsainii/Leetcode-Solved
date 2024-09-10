@@ -29,6 +29,10 @@ public:
         return gcd(x, (y-x));
     }
 
+    int gcd2(int a, int b){
+        return b == 0 ? a : gcd2(b, a % b);    
+    }
+
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
         if(head->next == NULL){
             return head;
@@ -36,7 +40,7 @@ public:
         ListNode *temp = head->next;
         ListNode *prev = head;
         while(temp != NULL){
-            int value = gcd(prev->val, temp->val);
+            int value = gcd2(prev->val, temp->val);
             ListNode * node = new ListNode(value);
             node->next = temp;
             prev->next = node;
