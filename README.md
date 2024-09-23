@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0241-different-ways-to-add-parentheses) |
