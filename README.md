@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0134-gas-station) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0125-valid-palindrome) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0179-largest-number) |
