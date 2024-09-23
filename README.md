@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1435-xor-queries-of-a-subarray) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0179-largest-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0539-minimum-time-difference) |
 ## Hash Table
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0906-walking-robot-simulation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -204,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2755-extra-characters-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
