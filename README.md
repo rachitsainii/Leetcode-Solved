@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0067-add-binary) |
 | [0906-walking-robot-simulation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0906-walking-robot-simulation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2411-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
