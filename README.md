@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0539-minimum-time-difference) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0906-walking-robot-simulation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0920-uncommon-words-from-two-sentences) |
