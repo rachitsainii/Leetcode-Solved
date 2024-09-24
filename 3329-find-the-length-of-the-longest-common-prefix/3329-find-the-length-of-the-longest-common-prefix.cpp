@@ -12,10 +12,10 @@ public:
             }
         }
 
-        for(auto [key, val] : counts){
-            cout << key << ":" << val ;
-            cout << endl;
-        }
+        // for(auto [key, val] : counts){
+        //     cout << key << ":" << val ;
+        //     cout << endl;
+        // }
 
         for(int num : arr2){
             string strNum = to_string(num);
