@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0539-minimum-time-difference) |
+| [1585-the-kth-factor-of-n](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1585-the-kth-factor-of-n) |
 | [2155-find-missing-observations](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Greedy
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1585-the-kth-factor-of-n) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
