@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2714-left-and-right-sum-differences](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2714-left-and-right-sum-differences) |
 | [2755-extra-characters-in-a-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1256-rank-transform-of-an-array) |
 | [2245-destroying-asteroids](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2245-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2487-optimal-partition-of-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2487-optimal-partition-of-string) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
