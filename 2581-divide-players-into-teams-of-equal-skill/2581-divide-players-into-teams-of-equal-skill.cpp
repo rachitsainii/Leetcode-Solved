@@ -1,15 +1,17 @@
 class Solution {
 public:
     long long dividePlayers(vector<int>& skill) {
+
+        // Initialize the answer variable.
         long long chemistry = 0;
     
+        // Find the size of the skill array
         int size = skill.size();
         
+        // Sort the array
         sort(skill.begin(), skill.end());
 
-        if(size <= 1){
-            return skill[0];
-        } else if(size == 2){
+        if(size == 2){
             return skill[0] * skill[size-1];
         } else {
             int i = 1;
