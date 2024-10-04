@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0539-minimum-time-difference](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
