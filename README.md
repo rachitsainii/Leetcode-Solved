@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0043-multiply-strings) |
