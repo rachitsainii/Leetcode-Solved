@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1829-maximum-units-on-a-truck](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1829-maximum-units-on-a-truck) |
 | [1923-sentence-similarity-iii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1923-sentence-similarity-iii) |
+| [1961-maximum-ice-cream-bars](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1961-maximum-ice-cream-bars) |
 | [2155-find-missing-observations](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2155-find-missing-observations) |
 | [2245-destroying-asteroids](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2245-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1256-rank-transform-of-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1464-reduce-array-size-to-the-half) |
 | [1829-maximum-units-on-a-truck](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1829-maximum-units-on-a-truck) |
+| [1961-maximum-ice-cream-bars](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1961-maximum-ice-cream-bars) |
 | [2245-destroying-asteroids](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2245-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1464-reduce-array-size-to-the-half) |
 | [1829-maximum-units-on-a-truck](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1829-maximum-units-on-a-truck) |
+| [1961-maximum-ice-cream-bars](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1961-maximum-ice-cream-bars) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2245-destroying-asteroids](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2245-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -342,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1464-reduce-array-size-to-the-half) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
