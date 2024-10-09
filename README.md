@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1894-merge-strings-alternately) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0179-largest-number) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1448-maximum-69-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1464-reduce-array-size-to-the-half) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0155-min-stack) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2800-minimum-string-length-after-removing-substrings) |
