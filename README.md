@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1961-maximum-ice-cream-bars) |
 | [2155-find-missing-observations](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2155-find-missing-observations) |
 | [2245-destroying-asteroids](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2245-destroying-asteroids) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2411-spiral-matrix-iv](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1961-maximum-ice-cream-bars) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2245-destroying-asteroids](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2245-destroying-asteroids) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2487-optimal-partition-of-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2487-optimal-partition-of-string) |
 ## Linked List
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1127-last-stone-weight](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1127-last-stone-weight) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1464-reduce-array-size-to-the-half) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2310-minimum-operations-to-halve-array-sum) |
 ## Counting Sort
 |  |
 | ------- |
