@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0539-minimum-time-difference) |
+| [0658-find-k-closest-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0859-design-circular-deque) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0658-find-k-closest-elements) |
 | [1894-merge-strings-alternately](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0539-minimum-time-difference) |
+| [0658-find-k-closest-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0658-find-k-closest-elements) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1256-rank-transform-of-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1256-rank-transform-of-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1464-reduce-array-size-to-the-half) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0731-my-calendar-ii) |
 ## Design
@@ -362,12 +366,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0658-find-k-closest-elements) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1127-last-stone-weight) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1464-reduce-array-size-to-the-half) |
