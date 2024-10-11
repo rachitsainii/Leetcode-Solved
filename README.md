@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1829-maximum-units-on-a-truck) |
 | [1923-sentence-similarity-iii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1923-sentence-similarity-iii) |
 | [1961-maximum-ice-cream-bars](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1961-maximum-ice-cream-bars) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2155-find-missing-observations](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2155-find-missing-observations) |
 | [2245-destroying-asteroids](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2245-destroying-asteroids) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2413-smallest-number-in-infinite-set](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2413-smallest-number-in-infinite-set) |
 | [2487-optimal-partition-of-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2487-optimal-partition-of-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1126-minimum-cost-to-connect-sticks](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1127-last-stone-weight) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1464-reduce-array-size-to-the-half) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2413-smallest-number-in-infinite-set) |
