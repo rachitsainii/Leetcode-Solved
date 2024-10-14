@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2714-left-and-right-sum-differences) |
 | [2755-extra-characters-in-a-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2487-optimal-partition-of-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2487-optimal-partition-of-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2413-smallest-number-in-infinite-set) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Counting Sort
 |  |
 | ------- |
