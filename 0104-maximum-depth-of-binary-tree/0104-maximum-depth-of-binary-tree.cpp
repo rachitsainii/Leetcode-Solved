@@ -18,6 +18,6 @@ public:
 
         int left = maxDepth(root->left);
         int right = maxDepth(root->right);
-        return max(left , right) + 1;
+        return max(left, right) + 1;
     }
 };
