@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1894-merge-strings-alternately) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
+| [1304-longest-happy-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1464-reduce-array-size-to-the-half) |
 | [1829-maximum-units-on-a-truck](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1829-maximum-units-on-a-truck) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1127-last-stone-weight) |
+| [1304-longest-happy-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1304-longest-happy-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1464-reduce-array-size-to-the-half) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2094-remove-stones-to-minimize-the-total) |
