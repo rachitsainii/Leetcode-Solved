@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
 | [1448-maximum-69-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1585-the-kth-factor-of-n) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
