@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1464-reduce-array-size-to-the-half) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1256-rank-transform-of-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1256-rank-transform-of-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1464-reduce-array-size-to-the-half) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1829-maximum-units-on-a-truck) |
 | [1961-maximum-ice-cream-bars](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1961-maximum-ice-cream-bars) |
 | [2245-destroying-asteroids](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2245-destroying-asteroids) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1304-longest-happy-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1464-reduce-array-size-to-the-half) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2310-minimum-operations-to-halve-array-sum) |
