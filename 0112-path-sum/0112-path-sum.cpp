@@ -11,24 +11,28 @@
  */
 class Solution {
 public:
+
     int target;
-    bool dfs(TreeNode *node, int curr){
+
+    bool hasPathSum(TreeNode* root, int targetSum) {
+        target = targetSum;
+        return dfs(root, 0);
+    }
+
+
+     bool dfs(TreeNode *node, int curr){
         if(node == NULL){
             return false;
         }
 
         if(node->left == NULL && node->right == NULL){
-            return (curr + node->val == target);
+            return (curr + node->val) == target;
         }
 
         curr += node->val;
         bool left = dfs(node->left, curr);
         bool right = dfs(node->right, curr);
         return left || right;
-    }
 
-    bool hasPathSum(TreeNode* root, int targetSum) {
-        target = targetSum;
-        return dfs(root, 0);
     }
 };
