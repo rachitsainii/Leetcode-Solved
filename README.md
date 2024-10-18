@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0539-minimum-time-difference](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0567-permutation-in-string) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0432-all-oone-data-structure](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0432-all-oone-data-structure) |
