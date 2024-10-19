@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1304-longest-happy-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1923-sentence-similarity-iii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0067-add-binary) |
 | [0906-walking-robot-simulation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0906-walking-robot-simulation) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2411-spiral-matrix-iv) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0241-different-ways-to-add-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Number Theory
 |  |
 | ------- |
