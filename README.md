@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0258-add-digits) |
 | [0906-walking-robot-simulation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0258-add-digits) |
 | [0539-minimum-time-difference](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1585-the-kth-factor-of-n) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
