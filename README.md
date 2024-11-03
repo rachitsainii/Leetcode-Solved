@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0812-rotate-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0415-add-strings) |
 | [0906-walking-robot-simulation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0326-power-of-three) |
+| [0415-add-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
