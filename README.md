@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0326-power-of-three) |
 | [0539-minimum-time-difference](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0326-power-of-three) |
 | [1197-parsing-a-boolean-expression](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Number Theory
