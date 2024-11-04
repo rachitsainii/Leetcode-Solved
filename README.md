@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0441-arranging-coins) |
 | [0539-minimum-time-difference](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0731-my-calendar-ii) |
