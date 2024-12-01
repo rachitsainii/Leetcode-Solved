@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1435-xor-queries-of-a-subarray) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1464-reduce-array-size-to-the-half) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0658-find-k-closest-elements) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1923-sentence-similarity-iii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1256-rank-transform-of-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1256-rank-transform-of-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1464-reduce-array-size-to-the-half) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1829-maximum-units-on-a-truck](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1829-maximum-units-on-a-truck) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1464-reduce-array-size-to-the-half) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1694-make-sum-divisible-by-p) |
@@ -516,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2179-most-beautiful-item-for-each-query) |
