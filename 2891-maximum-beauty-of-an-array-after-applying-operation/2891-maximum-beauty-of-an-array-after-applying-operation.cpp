@@ -12,14 +12,14 @@ public:
             v[i] = {x,y};
         }
 
-        deque<pair<int, int>> deq;
+        deque<int> deq;
         int maxBeauty = 0;
         for(pair<int, int> i : v){
-            while(!deq.empty() && deq.front().second < i.first){
+            while(!deq.empty() && deq.front() < i.first){
                 deq.pop_front();
             }
 
-            deq.push_back(i);
+            deq.push_back(i.second);
 
             maxBeauty = max(maxBeauty, (int)deq.size());
         }
