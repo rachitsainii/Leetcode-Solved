@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0812-rotate-string) |
