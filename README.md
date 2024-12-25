@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0112-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1484-linked-list-in-binary-tree) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0112-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1484-linked-list-in-binary-tree) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0112-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0112-path-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1484-linked-list-in-binary-tree) |
