@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
+| [1063-best-sightseeing-pair](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1063-best-sightseeing-pair) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1127-last-stone-weight) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2164-two-best-non-overlapping-events) |
