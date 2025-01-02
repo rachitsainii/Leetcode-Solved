@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0731-my-calendar-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0859-design-circular-deque) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0747-min-cost-climbing-stairs](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1063-best-sightseeing-pair) |
