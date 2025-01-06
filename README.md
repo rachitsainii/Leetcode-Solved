@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1127-last-stone-weight) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1206-corporate-flight-bookings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1206-corporate-flight-bookings) |
 | [1256-rank-transform-of-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0731-my-calendar-ii) |
 | [0878-shifting-letters](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1206-corporate-flight-bookings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1206-corporate-flight-bookings) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
