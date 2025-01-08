@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0055-jump-game) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0494-target-sum) |
