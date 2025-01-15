@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2487-optimal-partition-of-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2487-optimal-partition-of-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2509-minimize-xor](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2509-minimize-xor](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rachitsainii/Leetcode-Solved/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/rachitsainii/Leetcode-Solved/tree/master/3394-minimum-array-end) |
