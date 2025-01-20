@@ -12,10 +12,6 @@ public:
             }
         }
 
-        for(auto i : positions){
-            cout << i.first << "- " << "{"<< i.second.first << ", " << i.second.second << "}" << endl;
-        }
-
         vector<int> rowCount(m, 0);
         vector<int> colCount(n, 0);
         for(int i = 0; i < arr.size(); i++){
