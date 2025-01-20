@@ -21,11 +21,14 @@ public:
         for(int i = 0; i < arr.size(); i++){
             auto [r, c] = positions[arr[i]];
 
-            if(++rowCount[r] == n){
+            rowCount[r]++;
+            colCount[c]++;
+
+            if(rowCount[r] == n){
                 return i;
             }
 
-            if(++colCount[c] == m){
+            if(colCount[c] == m){
                 return i;
             }
         }
