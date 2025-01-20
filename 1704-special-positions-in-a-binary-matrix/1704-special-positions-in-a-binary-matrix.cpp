@@ -23,16 +23,6 @@ public:
             }
         }
 
-        for(auto i : row){
-            cout << i << " ";
-        }
-        cout << endl;
-
-        for(auto i : col){
-            cout << i << " ";
-        }
-        cout << endl;
-
         int ans = 0;
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
