@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2145-grid-game](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2155-find-missing-observations) |
 | [2164-two-best-non-overlapping-events](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1972-rotating-the-box](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2145-grid-game) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
