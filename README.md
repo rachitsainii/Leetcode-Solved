@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0695-max-area-of-island](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0731-my-calendar-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0747-min-cost-climbing-stairs) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1396-count-servers-that-communicate) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0407-trapping-rain-water-ii) |
+| [0695-max-area-of-island](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1396-count-servers-that-communicate) |
@@ -923,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
