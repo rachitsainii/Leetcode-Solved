@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0695-max-area-of-island) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0787-sliding-puzzle) |
@@ -927,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
