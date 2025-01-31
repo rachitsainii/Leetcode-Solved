@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0859-design-circular-deque) |
 | [0878-shifting-letters](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1396-count-servers-that-communicate) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -942,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0695-max-area-of-island) |
+| [0854-making-a-large-island](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
