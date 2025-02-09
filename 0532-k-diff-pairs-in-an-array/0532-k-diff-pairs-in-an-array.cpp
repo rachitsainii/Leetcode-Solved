@@ -17,10 +17,6 @@ public:
             }
         }
 
-        for(auto i : s){
-            cout << i.first << " " << i.second << endl;
-        }
-
         return s.size();
     }
 };
