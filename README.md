@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0506-relative-ranks) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0658-find-k-closest-elements) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0658-find-k-closest-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0506-relative-ranks) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0658-find-k-closest-elements) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0409-longest-palindrome) |
 | [0432-all-oone-data-structure](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0432-all-oone-data-structure) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0906-walking-robot-simulation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0906-walking-robot-simulation) |
@@ -753,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0441-arranging-coins) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0731-my-calendar-ii) |
