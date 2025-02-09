@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1014-k-closest-points-to-origin) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1063-best-sightseeing-pair) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1126-minimum-cost-to-connect-sticks) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0952-word-subsets) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0731-my-calendar-ii) |
 | [0878-shifting-letters](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1206-corporate-flight-bookings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1206-corporate-flight-bookings) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
