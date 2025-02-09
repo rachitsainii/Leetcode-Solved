@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2411-spiral-matrix-iv](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2411-spiral-matrix-iv) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2448-count-number-of-bad-pairs](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2434-design-a-number-container-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2448-count-number-of-bad-pairs](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1585-the-kth-factor-of-n) |
 | [2155-find-missing-observations](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2155-find-missing-observations) |
+| [2448-count-number-of-bad-pairs](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/rachitsainii/Leetcode-Solved/tree/master/3227-find-missing-and-repeated-values) |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rachitsainii/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rachitsainii/Leetcode-Solved/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rachitsainii/Leetcode-Solved/tree/master/3455-minimum-length-of-string-after-operations) |
