@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0412-fizz-buzz) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0078-subsets) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/rachitsainii/Leetcode-Solved/tree/master/0407-trapping-rain-water-ii) |
